@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Göktürk Binay</h1>
 - 📫 How to reach me **gokturkbnay@gmail.com**
 
-- 📄 Know about my experiences [https://turquoise-shirl-31.tiiny.site](https://turquoise-shirl-31.tiiny.site)
+- 📄 Know about my experiences [Resume](https://turquoise-shirl-31.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
