@@ -2,7 +2,8 @@
 - 📫 How to reach me **gokturkbnay@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aRBluX1OhNQNjfw4kB-TCDjuIwVjyEiL/view?usp=drive_link)
-
+- Explore the repositories below to view my projects.
+- Each project includes a comprehensive README file, providing an overview with images and key details for a quick understanding.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@gokturkelektronik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="göktürk elektronik" height="30" width="40" /></a>
