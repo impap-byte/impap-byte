@@ -5,6 +5,8 @@
 - Explore the repositories below to view my projects.
 - Each project includes a comprehensive README file, providing an overview with images and key details for a quick understanding.
 - Repositories with images are "microcontrollers" and "java projects"
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impap-byte)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@gokturkelektronik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="göktürk elektronik" height="30" width="40" /></a>
