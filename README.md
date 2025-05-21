@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Göktürk Binay</h1>
 - 📫 How to reach me **gokturkbnay@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aRBluX1OhNQNjfw4kB-TCDjuIwVjyEiL/view?usp=drive_link)
 - Explore the repositories below to view my projects.
 - Each project includes a comprehensive README file, providing an overview with images and key details for a quick understanding.
 - Repositories with images are "microcontrollers" and "java projects"
