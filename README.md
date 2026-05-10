@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Göktürk Binay</h1>
-- 📫 How to reach me **gokturkbnay@gmail.com**
-
-- Explore the repositories below to view my projects.
-- Each project includes a comprehensive README file, providing an overview with images and key details for a quick understanding.
-- Repositories with images are "microcontrollers" and "java projects"
+📫 How to reach me *gokturkbnay@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
